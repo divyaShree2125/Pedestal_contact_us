@@ -1,4 +1,4 @@
-Pedestal Techno World Pvt. Ltd - Course Description Page
+Pedestal Techno World Pvt. Ltd - Contact Us Page
 
 This repository contains the code for an interactive course description page for Pedestal Techno World Pvt. Ltd, an organization where we are currently interning. The page offers a user-friendly experience through various features:
 
